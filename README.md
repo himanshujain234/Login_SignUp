@@ -1,3 +1,12 @@
+LOGIN PAGE
+<img width="1457" alt="Login" src="https://github.com/user-attachments/assets/f3292f2d-58bc-48cb-8235-0004b3f5ab47">
+
+SIGN UP PAGE
+<img width="1462" alt="Signup" src="https://github.com/user-attachments/assets/1cce7b76-5bde-4929-8f00-eada4c99cc78">
+
+DASHBOARD HOME PAGE
+<img width="1460" alt="Home" src="https://github.com/user-attachments/assets/d01329d2-e82c-404f-9657-7bdbe3e4dec1">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
