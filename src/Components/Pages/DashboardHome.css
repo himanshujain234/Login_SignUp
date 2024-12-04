@@ -1,0 +1,65 @@
+.tabMenu{
+    display: flex;
+    justify-content: space-between;
+    height: 100%;
+    width: 100%;
+    padding: 1rem 0rem;
+    gap: 1rem;
+}
+.tabEmployee{
+    display: flex;
+    align-items: center;
+    padding: 0.8rem;
+    height: 5rem;
+    background-color: #0A1E67;
+    width: 25%;
+    border-radius: 1rem;
+    
+}
+.tabSalary{
+    display: flex;
+    padding: 0.8rem;
+    height: 5rem;
+    background-color: #ED604C;
+    align-items: center;
+    width: 25%;
+    border-radius: 1rem;
+}
+.tabPay{
+    display: flex;
+    padding: 0.8rem;
+    height: 5rem;
+    background-color: #675D54;
+    align-items: center;
+    width: 25%;
+    border-radius: 1rem;
+}
+.tabJob{
+    display: flex;
+    padding: 0.8rem;
+    height: 5rem;
+    background-color: #058EE1;
+    align-items: center;
+    width: 25%;
+    border-radius: 1rem;
+    
+}
+.innerTabImg{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 19%;
+    border-radius: 1rem;
+}
+.innerTabText{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+    height: 80%;
+    width: 80%;
+    gap: 0.3rem;
+    color: white;
+}

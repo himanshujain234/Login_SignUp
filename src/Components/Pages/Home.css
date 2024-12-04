@@ -1,0 +1,47 @@
+.bodyDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 2rem;
+}
+.header{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 3rem;
+    color: rgb(50, 50, 50);
+}
+
+.mainSignIn{
+    display: flex;
+    height: 550px;
+    width: 800px;
+    border-radius: 1rem;
+    align-items: center;
+    padding: 0.5rem;
+    background-color: white;
+    box-shadow: rgb(247, 240, 255) inset;
+}
+.leftImage{
+    height: 100%;
+    width: 44%;
+    border-radius: 1rem;
+    background-color: #937093
+}
+.loginImage{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.rightPanel{
+    height: 100%;
+    width: auto;
+    display: flex;
+    align-items: center;
+    padding-left: 5rem;
+    
+}
